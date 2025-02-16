@@ -2,7 +2,7 @@
   "artifacts": [
     {
       "name": "client-1.0.8.jar",
-      "path": "doubt3726.github.io/launcher/client-1.0.8.jar",
+      "path": "https://doubt3726.github.io/launcher/client-1.0.8.jar",
       "hash": "9a6b94022191b011b5ea231f94d3fcbb2d6b983e8cc7db333561fa1f906d90af",
       "size": 68312253
     }
